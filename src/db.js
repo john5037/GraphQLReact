@@ -4,7 +4,7 @@ const github = {
 
   headers: {
     "Content-Type": "application/json",
-    Authorization:"bearer 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"
+    Authorization:"bearer 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"
   }
 }
 
