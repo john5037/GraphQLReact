@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GraphQLReact/static/css/main.5fe1eb00.chunk.css",
+    "main.js": "/GraphQLReact/static/js/main.6b2b8ad2.chunk.js",
+    "main.js.map": "/GraphQLReact/static/js/main.6b2b8ad2.chunk.js.map",
+    "runtime-main.js": "/GraphQLReact/static/js/runtime-main.be631e14.js",
+    "runtime-main.js.map": "/GraphQLReact/static/js/runtime-main.be631e14.js.map",
+    "static/css/2.5195e025.chunk.css": "/GraphQLReact/static/css/2.5195e025.chunk.css",
+    "static/js/2.7b6c161f.chunk.js": "/GraphQLReact/static/js/2.7b6c161f.chunk.js",
+    "static/js/2.7b6c161f.chunk.js.map": "/GraphQLReact/static/js/2.7b6c161f.chunk.js.map",
+    "index.html": "/GraphQLReact/index.html",
+    "static/css/2.5195e025.chunk.css.map": "/GraphQLReact/static/css/2.5195e025.chunk.css.map",
+    "static/css/main.5fe1eb00.chunk.css.map": "/GraphQLReact/static/css/main.5fe1eb00.chunk.css.map",
+    "static/js/2.7b6c161f.chunk.js.LICENSE.txt": "/GraphQLReact/static/js/2.7b6c161f.chunk.js.LICENSE.txt",
+    "static/media/custom.scss": "/GraphQLReact/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be631e14.js",
+    "static/css/2.5195e025.chunk.css",
+    "static/js/2.7b6c161f.chunk.js",
+    "static/css/main.5fe1eb00.chunk.css",
+    "static/js/main.6b2b8ad2.chunk.js"
+  ]
+}
