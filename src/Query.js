@@ -15,7 +15,6 @@ const githubQuery = (pageCount,queryString, paginationKeyword, paginationString)
         description
         id
         url
-        viewerSubscription
       }
     }
     }
